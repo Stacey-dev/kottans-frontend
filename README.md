@@ -3,7 +3,8 @@
 ## Stage 0
 
 ### General
-* [ ] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+* [x] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+
 * [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 * [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 
@@ -22,3 +23,27 @@
 * [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) - real project!
 * [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 * [ ] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
+-----
+### Git Basics
+I knew some basic information about Git, but these lessons helped me to structure my knowledge.
+
+:star: Course **Version Control with Git** completed. I've got a better understanding of a version control system and learned new helpful commands:
+  + git branch
+  + git checkout
+  + git add
+  + git log --oneline
+  + git commit --amend
+  + git revert
+  + git reset --soft and so on.
+
+And their commit styleguide is worth using :arrow_right: <https://udacity.github.io/git-styleguide/>
+![Udacity](/assets/udacity_git_course.jpg)
+
+:star: **Main: Introduction Sequence, Remote: Push & Pull -- Git Remotes** (learngitbranching.js.org) completed. I've become aware of such commands as:
+  + git fetch
+  + git rebase
+  + git pull
+  + git push and others.
+  
+![Main](/assets/learngitbranching_intro.jpg)
+![Remote](/assets/learngitbranching_remote.jpg)
