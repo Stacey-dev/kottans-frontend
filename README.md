@@ -4,8 +4,7 @@
 
 ### General
 * [x] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
-
-* [ ] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
+* [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 * [ ] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 
 ### Front-End Basics
@@ -47,3 +46,20 @@ And their commit styleguide is worth using :arrow_right: <https://udacity.github
   
 ![Main](/assets/learngitbranching_intro.jpg)
 ![Remote](/assets/learngitbranching_remote.jpg)
+-----
+### Linux CLI, and HTTP
+
+:star: **Linux Survival** (4 modules) - finished. I've learned new commands to work with directories and files:
+  - mkdir
+  - ls
+  - mv
+  - cd
+  - rm, rmdir
+  - and other.
+
+I will definitely use some of them in future.
+
+![Linux_Survival](/task_linux_cli/linux_sirvival.jpg)
+
+:star: Articles "HTTP: The Protocol Every Web Developer Must Know" (part 1, 2) - read.
+I knew some basic things and articles gave me extended information about HTTP, its methods and status codes. Also, I've learned about identification, authentication and caching.
