@@ -92,4 +92,19 @@ I knew some basic things and articles gave me extended information about HTTP, i
 
 :zap: Learning Git's commands, I structured my knowledge about version control system. Now it doesn't seem so confusing. I'm going to use these commands as much as possible. :zap:
 
+![:arrow_heading_up:](/Shrai-dev/kottans-frontend#general)
+
+-----
+### Intro to HTML and CSS
+
+Course **Intro to HTML & CSS (Eng)** 
+
+:star: Course **Learn HTML(Eng)** finished. It gave me solid understanding of how create different parts of the web page. 
+
+![HTML](/task_html_css_intro/codecademy_html.jpg)
+
+:star: Course **Learn CSS(Eng)** finished. I learned how to style and position HTML elements on the web page. 
+
+![CSS](/task_html_css_intro/codecademy_css.jpg)
+
 :arrow_down: to be continued..
