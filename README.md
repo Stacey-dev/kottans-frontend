@@ -8,7 +8,7 @@
 * [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 
 ### Front-End Basics
-* [ ] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
+* [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
 * [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
 * [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 * [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
@@ -92,18 +92,36 @@ I knew some basic things and articles gave me extended information about HTTP, i
 
 :zap: Learning Git's commands, I structured my knowledge about version control system. Now it doesn't seem so confusing. I'm going to use these commands as much as possible. :zap:
 
-![:arrow_heading_up:](/Shrai-dev/kottans-frontend#general)
+[:arrow_heading_up:](kottans-frontend#general)
 
 -----
 ### Intro to HTML and CSS
 
-Course **Intro to HTML & CSS (Eng)** 
+:star: Course **Intro to HTML & CSS (Eng)** finished. It suits complete beginners (there was nothing new for me). But it was good to refresh some basic points.
 
-:star: Course **Learn HTML(Eng)** finished. It gave me solid understanding of how create different parts of the web page. 
+![Udacity](/task_html_css_intro/udacity_intro_html_css.jpg)
+
+:star: Course **Learn HTML(Eng)** finished. It gave me solid understanding of how create different parts of the web page. It's good to use Semantic HTML that emphasizes the meaning of the encoded information over its presentation like:
+  - `<header>`;
+  - `<nav>`;
+  - `<main>`;
+  - `<footer>` and other.
 
 ![HTML](/task_html_css_intro/codecademy_html.jpg)
 
-:star: Course **Learn CSS(Eng)** finished. I learned how to style and position HTML elements on the web page. 
+:star: Course **Learn CSS(Eng)** finished. I learned how to style and position HTML elements on the web page. The new information that I discovered was about CSS flexbox and its properties such as:
+  + justify-content;
+  + flex-direction;
+  + align-content;
+  + align-items;
+  + flex-wrap and so on.
+
+Another powerful layout system is **CSS Grid** that can change both columns and rows. There must be a grid container (the one on which display: grid is applied) that is the direct parent of all the grid items and the children or grid items (i.e. *direct* descendants) of the grid container. The propetries that are used for styling grid container and grid items are:
+  - grid-template-columns / grid-template-rows (width value can be either in pixels(px) or percentages(%));
+  - grid-column-gap / grid-row-gap - to determine the size of the gap between each row and each column;
+  - grid-row-start / grid-row-end - allow single grid items to take up multiple rows (also works for columns);
+  - grid-row-gap / grid-column-gap - to set the size of the gap between an element’s grid rows or columns;
+  - and others.
 
 ![CSS](/task_html_css_intro/codecademy_css.jpg)
 
