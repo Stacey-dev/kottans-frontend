@@ -92,8 +92,6 @@ I knew some basic things and articles gave me extended information about HTTP, i
 
 :zap: Learning Git's commands, I structured my knowledge about version control system. Now it doesn't seem so confusing. I'm going to use these commands as much as possible. :zap:
 
-[:arrow_heading_up:](kottans-frontend#general)
-
 -----
 ### Intro to HTML and CSS
 
