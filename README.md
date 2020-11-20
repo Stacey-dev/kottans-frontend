@@ -3,13 +3,13 @@
 ## Stage 0
 
 ### General
-* [x] [Git Basics](https://github.com/kottans/frontend/blob/master/tasks/git-intro.md)
+* [x] [Git Basics](#git-basics)
 * [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
 * [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
 
 ### Front-End Basics
 * [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
-* [ ] [Responsive Web Design](https://github.com/kottans/frontend/blob/master/tasks/html-css-responsive.md)
+* [x] [Responsive Web Design](#responsive-web-design)
 * [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
 * [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
 * [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
@@ -122,5 +122,27 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
   - and others.
 
 ![CSS](/task_html_css_intro/codecademy_css.jpg)
+
+### Responsive Web Design <a name="responsive-web-design"></a>
+
+:star: Course **Responsive Web Design Fundamentals** completed. I refreshed some knowledge about media queries and I learned about patterns for responsive design:
+  + Column Drop;
+  + Mostly Fluid;
+  + Layout Shifter;
+  + Off Canvas.
+
+:zap: The new thing for me is that it's better to start designing from the smallest viewport and then go bigger.
+
+:bell: The other important thing for small screens is to make tap-targets' size at least 48x48px.
+
+![Responsive](/task_responsive_web_design/Udacity-responsive-web-design.jpg)
+
+:star: **Flexbox Froggy** completed. It's quite interesting way to practice different properties of Flexbox such as:
+  + justify-content - to align elements horizontally;
+  + align-items - to align items vertically;
+  + flex-direction - to set the direction in which the elements will be positioned in the container;
+  + order - to change the places of the elements (it can have positive and negative values).
+
+![Froggy](/task_responsive_web_design/flexbox-froggy.jpg)
 
 :arrow_down: to be continued..
