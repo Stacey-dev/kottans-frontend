@@ -4,13 +4,13 @@
 
 ### General
 * [x] [Git Basics](#git-basics)
-* [x] [Linux CLI and Networking](https://github.com/kottans/frontend/blob/master/tasks/linux-cli-http.md)
-* [x] [VCS (hello gitty), GitHub and Collaboration](https://github.com/kottans/frontend/blob/master/tasks/git-collaboration.md)
+* [x] [Linux CLI and Networking](#linux-cli-and-networking)
+* [x] [VCS (hello gitty), GitHub and Collaboration](#vcs-hello-gitty-github-and-collaboration)
 
 ### Front-End Basics
-* [x] [Intro to HTML & CSS](https://github.com/kottans/frontend/blob/master/tasks/html-css-intro.md)
+* [x] [Intro to HTML & CSS](#intro-to-html-&-css)
 * [x] [Responsive Web Design](#responsive-web-design)
-* [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/master/tasks/html-css-popup.md)
+* [x] [HTML & CSS Practice](#html-&-css-practice)
 * [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
 * [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
 
@@ -133,7 +133,7 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
 
 :zap: The new thing for me is that it's better to start designing from the smallest viewport and then go bigger.
 
-:bell: The other important thing for small screens is to make tap-targets' size at least 48x48px.
+:bell: The other important thing: for small screens is to make tap-targets' size at least 48x48px.
 
 ![Responsive](/task_responsive_web_design/Udacity-responsive-web-design.jpg)
 
@@ -144,5 +144,20 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
   + order - to change the places of the elements (it can have positive and negative values).
 
 ![Froggy](/task_responsive_web_design/flexbox-froggy.jpg)
+
+### HTML & CSS Practice
+
+:star: Hooli-style Popup finished. I found out how to create popup menu without JavaScript and learned how to use css properties like :
+  + position: relative;
+  + position: absolute;
+  + z-index;
+  + overflow;
+  + :focus state.
+
+:arrow_down: Below you can find published web page and the code.
+
+[Demo](https://shrai-dev.github.io/kottans-html-css-popup/)
+
+[Code](https://github.com/Shrai-dev/kottans-html-css-popup)
 
 :arrow_down: to be continued..
