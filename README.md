@@ -8,7 +8,7 @@
 * [x] [Git Collaboration](#git-collaboration)
 
 ### Front-End Basics
-* [x] [Intro to HTML & CSS](#intro-to-html-&-css)
+* [x] [Intro to HTML & CSS](#intro-to-html--css)
 * [x] [Responsive Web Design](#responsive-web-design)
 * [x] [HTML & CSS Practice](#html--css-practice)
 * [x] [JavaScript Basics](#js-basics)
@@ -198,12 +198,13 @@ There are three ways *to declare a variable:*
 
 *Basic JavaScript* - really tiny exercises but have a lot of important information.
 
-*ES6 Challenges* - I've practiced the most recent standardized version of JS -  ECMAScript 6 or ES6.
+*ES6 Challenges* - I've practiced the most recent standardized version of JS - ECMAScript 6 or ES6.
 
 *Basic Data Structures* - good excercises to learn how to manipulate arrays and objects.
 
-*Basic Algorithm Scripting* - Basic algorithms. Solve all problems (<20). 4-5 hrs to complete.
-*Functional Programming* - I gained knowledge about it:
+*Basic Algorithm Scripting* - very interesting exercises to train your brain.
+
+*Functional Programming* - I found out what it is about:
 
 >Functional programming follows a few core principles:
 >
