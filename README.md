@@ -1,17 +1,17 @@
-# kottans-frontend
+# kottans-frontend :feet:
 
 ## Stage 0
 
 ### General
 * [x] [Git Basics](#git-basics)
 * [x] [Linux CLI and Networking](#linux-cli-and-networking)
-* [x] [VCS (hello gitty), GitHub and Collaboration](#vcs-hello-gitty-github-and-collaboration)
+* [x] [Git Collaboration](#git-collaboration)
 
 ### Front-End Basics
 * [x] [Intro to HTML & CSS](#intro-to-html-&-css)
 * [x] [Responsive Web Design](#responsive-web-design)
-* [x] [HTML & CSS Practice](#html-&-css-practice)
-* [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/master/tasks/js-basics.md)
+* [x] [HTML & CSS Practice](#html--css-practice)
+* [x] [JavaScript Basics](#js-basics)
 * [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
 
 ### Advanced Topics
@@ -48,7 +48,7 @@ And their commit styleguide is worth using :arrow_right: <https://udacity.github
 ![Main](/assets/learngitbranching_intro.jpg)
 ![Remote](/assets/learngitbranching_remote.jpg)
 -----
-### Linux CLI, and HTTP
+### Linux CLI and Networking
 
 :star: **Linux Survival** (4 modules) - finished. I've learned new commands to work with directories and files:
   - mkdir;
@@ -123,6 +123,7 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
 
 ![CSS](/task_html_css_intro/codecademy_css.jpg)
 
+-----
 ### Responsive Web Design <a name="responsive-web-design"></a>
 
 :star: Course **Responsive Web Design Fundamentals** completed. I refreshed some knowledge about media queries and I learned about patterns for responsive design:
@@ -145,9 +146,10 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
 
 ![Froggy](/task_responsive_web_design/flexbox-froggy.jpg)
 
+-----
 ### HTML & CSS Practice
 
-:star: Hooli-style Popup finished. I found out how to create popup menu without JavaScript and learned how to use css properties like :
+:star: Hooli-style Popup finished. I found out how to create popup menu without JavaScript and learned how to use css properties like:
   + position: relative;
   + position: absolute;
   + z-index;
@@ -156,8 +158,62 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
 
 :arrow_down: Below you can find published web page and the code.
 
-[Demo](https://shrai-dev.github.io/kottans-html-css-popup/)
+[Demo](https://shrai-dev.github.io/kottans-html-css-popup/) | [Code](https://github.com/Shrai-dev/kottans-html-css-popup)
 
-[Code](https://github.com/Shrai-dev/kottans-html-css-popup)
+-----
+### JS Basics
+
+:star2: Course **Intro to JS** completed. It has tons of new information. This course helped me to broad my basic knowledge. And below there are some things not to forget :arrow_down:
+
+*The scope* is defined as a specific portion of the code. There are three types of scope in Javascript:
+
+*Global scope* - When a particular variable is visible anywhere in the code. Such a variable is generally called as Global variable.
+
+*Function scope* - When a particular variable is visible within a particular function only. Such a variable is generally called as Local variable.
+
+*Block scope* - When a particular variable is visible within a pair of { . . . } only.
+
+There are three ways *to declare a variable:*
+
+`let` - It is a new way to declare a variable in any scope - Global, Local, or Block. The value of this variable can be changed or reassigned anytime within its scope.
+
+`const` - It is also a way to declare constants in any scope - Global, Local, or Block. Once you are assigned a value to a const variable, the value of this variable CANNOT be changed or reassigned throughout the code. 
+
+`var` - This is the old way of declaring variables in only two scope - Global, or Local. Variables declared with the var keyword can not have Block Scope. The value of this variable can be changed or reassigned anytime within its scope. 
+
+:fire: *It is common to use uppercase variable identifiers for immutable values and lowercase or camelCase for mutable values (objects and arrays).*
+
+*Parameters vs. Arguments*: 
+**A parameter** is always going to be a variable name and appears in the function declaration. On the other hand, **an argument** is always going to be a value (i.e. any of the JavaScript data types - a number, a string, a boolean, etc.) and will always appear in the code when the function is called or invoked.
+
+*A function's return value can be stored in a variable or reused throughout your program as a function argument.*
+
+*Callbacks are the functions that are slipped or passed into another function to decide the invocation of that function.*
+
+**Objects** are one of the most important data structures in JavaScript. They have properties (information about the object) and methods (functions or capabilities the object has).
+
+![Udacity](/task_js_basics/Udacity-intro-to-js.jpg)
+
+:star2: **freeCodeCamp excercises** completed. They are interesting and easy at the beginning and becomes more challenging closer to the end.
+
+*Basic JavaScript* - really tiny exercises but have a lot of important information.
+
+*ES6 Challenges* - I've practiced the most recent standardized version of JS -  ECMAScript 6 or ES6.
+
+*Basic Data Structures* - good excercises to learn how to manipulate arrays and objects.
+
+*Basic Algorithm Scripting* - Basic algorithms. Solve all problems (<20). 4-5 hrs to complete.
+*Functional Programming* - I gained knowledge about it:
+
+>Functional programming follows a few core principles:
+>
+>+ Functions are independent from the state of the program or global variables. They only depend on >the arguments passed into them to make a calculation
+>+ Functions try to limit any changes to the state of the program and avoid changes to the global >objects holding data
+>+ Functions have minimal side effects in the program
+
+:muscle: *Algorithm Scripting Challenges* - it was the hardest part and took a lot of effoerts to finally complete it.
+
+![freeCodeCamp](/task_js_basics/freeCodeCamp_js.jpg)
+
 
 :arrow_down: to be continued..
