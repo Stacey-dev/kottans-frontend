@@ -15,12 +15,12 @@
 * [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
 
 ### Advanced Topics
-* [ ] [Building a Tiny JS World (pre-OOP)](https://github.com/kottans/frontend/blob/master/tasks/js-pre-oop.md) - practice
+* [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world) - practice
 * [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice
 * [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice
-* [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
+* [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md) - optional
 * [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) - real project!
-* [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
+* [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md) - optional
 * [ ] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
 -----
 ### Git Basics
@@ -163,7 +163,7 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
 -----
 ### JS Basics
 
-:star2: Course **Intro to JS** completed. It has tons of new information. This course helped me to broad my basic knowledge. And below there are some things not to forget :arrow_down:
+:star2: Course **Intro to JS** completed. It has tons of new information. This course helped me to broad my basic knowledge. And below there are some things not to forget: :arrow_down:
 
 *The scope* is defined as a specific portion of the code. There are three types of scope in Javascript:
 
@@ -212,9 +212,15 @@ There are three ways *to declare a variable:*
 >+ Functions try to limit any changes to the state of the program and avoid changes to the global >objects holding data
 >+ Functions have minimal side effects in the program
 
-:muscle: *Algorithm Scripting Challenges* - it was the hardest part and took a lot of effoerts to finally complete it.
+:muscle: *Algorithm Scripting Challenges* - it was the hardest part and took a lot of efforts to finally complete it.
 
 ![freeCodeCamp](/task_js_basics/freeCodeCamp_js.jpg)
 
+
+-----
+### Building a Tiny JS World
+I've built a tiny JS world.
+
+[Demo](https://shrai-dev.github.io/a-tiny-JS-world/) 
 
 :arrow_down: to be continued..
