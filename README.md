@@ -216,11 +216,40 @@ There are three ways *to declare a variable:*
 
 ![freeCodeCamp](/task_js_basics/freeCodeCamp_js.jpg)
 
+-----
+### DOM
+
+:star2: Course **JavaScript and the DOM** finished. I've learned a lot of new information that will help me to build interactive websites.
+
+The DOM (stands for *"Document Object Model"*) is a model (representation) of the relationships and attributes of the HTML document that was received.
+
+![Udacity](/task_js_dom/Udacity_DOM.jpg)
+
+:star2: **freecodecamp Algorithm Scripting Challenges** finished. The tasks were hard and really challenging.
+
+![freeCodeCamp](/task_js_dom/freeCodeCamp.jpg)
 
 -----
 ### Building a Tiny JS World
 I've built a tiny JS world.
 
 [Demo](https://shrai-dev.github.io/a-tiny-JS-world/) 
+
+-----
+### Object-Oriented JavaScript
+:star2: Course **Object Oriented JS** completed. I've learned about the word this and how to use it in the code.
+
+![Udacity](/task_oop/Udacity-1.jpg)
+![Udacity](/task_oop/Udacity-2.jpg)
+
+:arrow_down: Also, I made a Frogger Game 
+
+[Demo](https://shrai-dev.github.io/) | [Code](https://github.com/Shrai-dev/)
+
+:star2: **Codewars**
+
+My profile :arrow_right: [Anastasia](https://www.codewars.com/users/_Stacey_)
+
+
 
 :arrow_down: to be continued..
