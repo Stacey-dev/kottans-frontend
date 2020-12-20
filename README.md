@@ -12,15 +12,15 @@
 * [x] [Responsive Web Design](#responsive-web-design)
 * [x] [HTML & CSS Practice](#html--css-practice)
 * [x] [JavaScript Basics](#js-basics)
-* [ ] [Document Object Model](https://github.com/kottans/frontend/blob/master/tasks/js-dom.md) - practice
+* [x] [Document Object Model](#dom) - practice
 
 ### Advanced Topics
 * [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world) - practice
 * [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice
 * [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice
-* [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md) - optional
+* [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
 * [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) - real project!
-* [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md) - optional
+* [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 * [ ] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
 -----
 ### Git Basics
@@ -223,11 +223,26 @@ There are three ways *to declare a variable:*
 
 The DOM (stands for *"Document Object Model"*) is a model (representation) of the relationships and attributes of the HTML document that was received.
 
+Some useful properties and methods:
+  + .innerHTML - to get an element's (and all of its descendants!) HTML content and set an element's HTML content;
+  + .textContent to set the text content of an element (and all its descendants) and return the text content of an element (and all its descendants);
+  + .innerText - to get the visible text of the element;
+  + document.createElement() -  to create an element;
+  + .appendChild()- to add an element as the last child of the parent element;
+  + setAttribute() - to set any attribute for an element;
+  + .className - to access the list of classes;
+  + .toggle() - to add the class if it doesn't exists or remove it from the list if it does already exist;
+  + .contains() - returns a boolean based on if the class exists in the list or not.
+
 ![Udacity](/task_js_dom/Udacity_DOM.jpg)
 
 :star2: **freecodecamp Algorithm Scripting Challenges** finished. The tasks were hard and really challenging.
 
 ![freeCodeCamp](/task_js_dom/freeCodeCamp.jpg)
+
+:arrow_down: My version of interactive side-menu is below
+
+[Demo](https://shrai-dev.github.io/kottans-interactive-side-menu/) | [Code](https://github.com/Shrai-dev/kottans-interactive-side-menu)
 
 -----
 ### Building a Tiny JS World
@@ -235,20 +250,6 @@ I've built a tiny JS world.
 
 [Demo](https://shrai-dev.github.io/a-tiny-JS-world/) 
 
------
-### Object-Oriented JavaScript
-:star2: Course **Object Oriented JS** completed. I've learned about the word this and how to use it in the code.
-
-![Udacity](/task_oop/Udacity-1.jpg)
-![Udacity](/task_oop/Udacity-2.jpg)
-
-:arrow_down: Also, I made a Frogger Game 
-
-[Demo](https://shrai-dev.github.io/) | [Code](https://github.com/Shrai-dev/)
-
-:star2: **Codewars**
-
-My profile :arrow_right: [Anastasia](https://www.codewars.com/users/_Stacey_)
 
 
 
