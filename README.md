@@ -16,8 +16,8 @@
 
 ### Advanced Topics
 * [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world) - practice
-* [ ] [Object oriented JS](https://github.com/kottans/frontend/blob/master/tasks/js-oop.md) - practice
-* [ ] [OOP exercise](https://github.com/kottans/frontend/blob/master/tasks/js-post-oop.md) - practice
+* [x] [Object-oriented JS](#object-oriented-js) - practice
+* [x] [OOP exercise](#oop-exercise) - practice
 * [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
 * [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) - real project!
 * [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
@@ -246,11 +246,22 @@ Some useful properties and methods:
 
 -----
 ### Building a Tiny JS World
-I've built a tiny JS world.
+:star2: I've built a tiny JS world. 
 
 [Demo](https://shrai-dev.github.io/a-tiny-JS-world/) 
 
 
+-----
+### OOP exercise
+:star2: I've improved my Tiny JS World using Classes and all this information was completely new to me:
+  + classes specify the shared properties and methods that objects produced from the class will have.
+  + classes can have a **constructor** method. This is a special method that is called when the object is created (instantiated). Constructor methods are usually used to set initial values for the object.
+  + JavaScript classes support the concept of inheritance — a child class can *extend* a parent class. This is accomplished by using the **extends** keyword as part of the class definition.
+  + A child class constructor calls the parent class constructor using the **super()** method.
+  + Every method is inherited just like properties.
 
+:fire: The most controversial thing is that *Javascript does not have classes*. There have been many attempts to mimic classes in javascript, and there is even a Class in ES6, however, all these “replacements” are just syntactic sugar over the actual functionality that goes on under the hood.
+
+[Demo](https://shrai-dev.github.io/a-tiny-JS-world/)
 
 :arrow_down: to be continued..
