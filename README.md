@@ -251,7 +251,7 @@ Some useful properties and methods:
 [Demo](https://shrai-dev.github.io/a-tiny-JS-world/) 
 
 -----
-### Object-Oriented JavaScript
+### Object Oriented JavaScript
 :star2: Course **Object Oriented JS** completed. This topic is new to me. I've learned about prototypes and delegation and the word *this*: 
 
   + Concepts of lexical scope, execution context (in-memory scope), closures, prototype chains.
@@ -259,8 +259,8 @@ Some useful properties and methods:
   + The value of this depends on where the this is being accessed from.
   + The `__proto__` property is the property on every object that gives it access to the Object prototype property.
   
-![Udacity](/task_oop/Udacity-1.jpg)
-![Udacity](/task_oop/Udacity-2.jpg)
+![Udacity](/task_js_oop/Udacity-1.jpg)
+![Udacity](/task_js_oop/Udacity-2.jpg)
 
 :arrow_down: Also, I made a Frogger Game. 
 
