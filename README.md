@@ -250,6 +250,27 @@ Some useful properties and methods:
 
 [Demo](https://shrai-dev.github.io/a-tiny-JS-world/) 
 
+-----
+### Object-Oriented JavaScript
+:star2: Course **Object Oriented JS** completed. This topic is new to me. I've learned about prototypes and delegation and the word *this*: 
+
+  + Concepts of lexical scope, execution context (in-memory scope), closures, prototype chains.
+  + The this keyword refers the calling object and can be used to access properties of the calling object.
+  + The value of this depends on where the this is being accessed from.
+  + The `__proto__` property is the property on every object that gives it access to the Object prototype property.
+  
+![Udacity](/task_oop/Udacity-1.jpg)
+![Udacity](/task_oop/Udacity-2.jpg)
+
+:arrow_down: Also, I made a Frogger Game. 
+
+[Demo](https://shrai-dev.github.io/frontend-nanodegree-arcade-game/) | [Code](https://github.com/Shrai-dev/frontend-nanodegree-arcade-game)
+
+:star2: **Codewars**
+
+I'd reached 6 kyu before this course. 
+
+My profile  :arrow_right:  [Anastasia](https://www.codewars.com/users/_Stacey_)
 
 -----
 ### OOP exercise
