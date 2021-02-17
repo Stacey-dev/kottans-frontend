@@ -16,12 +16,12 @@
 
 ### Advanced Topics
 * [x] [Building a Tiny JS World (pre-OOP)](#building-a-tiny-js-world) - practice
-* [x] [Object-oriented JS](#object-oriented-js) - practice
+* [x] [Object-oriented JS](#object-oriented-javascript) - practice
 * [x] [OOP exercise](#oop-exercise) - practice
 * [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
-* [ ] [Memory pair game](https://github.com/kottans/frontend/blob/master/tasks/memory-pair-game.md) - real project!
+* [x] [Memory pair game](#memory-pair-game) - real project!
 * [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
-* [ ] [Friends App](https://github.com/kottans/frontend/blob/master/tasks/friends-app.md) - real project!
+* [x] [Friends App](#friends-app) - real project!
 -----
 ### Git Basics
 I knew some basic information about Git, but these lessons helped me to structure my knowledge.
@@ -108,17 +108,17 @@ I knew some basic things and articles gave me extended information about HTTP, i
 ![HTML](/task_html_css_intro/codecademy_html.jpg)
 
 :star: Course **Learn CSS(Eng)** finished. I learned how to style and position HTML elements on the web page. The new information that I discovered was about CSS flexbox and its properties such as:
-  + justify-content;
-  + flex-direction;
-  + align-content;
-  + align-items;
-  + flex-wrap and so on.
+  + `justify-content`;
+  + `flex-direction`;
+  + `align-content`;
+  + `align-items`;
+  + `flex-wrap` and so on.
 
 Another powerful layout system is **CSS Grid** that can change both columns and rows. There must be a grid container (the one on which display: grid is applied) that is the direct parent of all the grid items and the children or grid items (i.e. *direct* descendants) of the grid container. The propetries that are used for styling grid container and grid items are:
-  - grid-template-columns / grid-template-rows (width value can be either in pixels(px) or percentages(%));
-  - grid-column-gap / grid-row-gap - to determine the size of the gap between each row and each column;
-  - grid-row-start / grid-row-end - allow single grid items to take up multiple rows (also works for columns);
-  - grid-row-gap / grid-column-gap - to set the size of the gap between an element’s grid rows or columns;
+  - `grid-template-columns / grid-template-rows` (width value can be either in pixels(px) or percentages(%));
+  - `grid-column-gap / grid-row-gap` - to determine the size of the gap between each row and each column;
+  - `grid-row-start / grid-row-end` - allow single grid items to take up multiple rows (also works for columns);
+  - `grid-row-gap / grid-column-gap` - to set the size of the gap between an element’s grid rows or columns;
   - and others.
 
 ![CSS](/task_html_css_intro/codecademy_css.jpg)
@@ -139,22 +139,29 @@ Another powerful layout system is **CSS Grid** that can change both columns and 
 ![Responsive](/task_responsive_web_design/Udacity-responsive-web-design.jpg)
 
 :star: **Flexbox Froggy** completed. It's quite interesting way to practice different properties of Flexbox such as:
-  + justify-content - to align elements horizontally;
-  + align-items - to align items vertically;
-  + flex-direction - to set the direction in which the elements will be positioned in the container;
-  + order - to change the places of the elements (it can have positive and negative values).
+  + `justify-content` - to align elements horizontally;
+  + `align-items` - to align items vertically;
+  + `flex-direction` - to set the direction in which the elements will be positioned in the container;
+  + `order` - to change the places of the elements (it can have positive and negative values).
 
 ![Froggy](/task_responsive_web_design/flexbox-froggy.jpg)
+
+:star: **Grid Garden** completed. I practiced using different properties of Grid:
++ grid relative sizing unit `fr` - to split rows and/or columns into proportional distances;
++ `grid-gap` property - a shorthand way of setting the two properties grid-row-gap and grid-column-gap;
++ `grid-area` property specifies a grid item’s size and location in a grid layout and is a shorthand property for the `grid-row-start`, `grid-column-start`, `grid-row-end`, and `grid-column-end` in that order and other.
+
+![GridGarden](/task_responsive_web_design/grid-garden.jpg)
 
 -----
 ### HTML & CSS Practice
 
 :star: Hooli-style Popup finished. I found out how to create popup menu without JavaScript and learned how to use css properties like:
-  + position: relative;
-  + position: absolute;
-  + z-index;
-  + overflow;
-  + :focus state.
+  + `position: relative;`
+  + `position: absolute;`
+  + `z-index;`
+  + `overflow;`
+  + `:focus` state.
 
 :arrow_down: Below you can find published web page and the code.
 
@@ -225,12 +232,12 @@ The DOM (stands for *"Document Object Model"*) is a model (representation) of th
 
 Some useful properties and methods:
   + .innerHTML - to get an element's (and all of its descendants!) HTML content and set an element's HTML content;
-  + .textContent to set the text content of an element (and all its descendants) and return the text content of an element (and all its descendants);
+  + .textContent - to set the text content of an element (and all its descendants) and return the text content of an element (and all its descendants);
   + .innerText - to get the visible text of the element;
   + document.createElement() -  to create an element;
-  + .appendChild()- to add an element as the last child of the parent element;
+  + .appendChild() - to add an element as the last child of the parent element;
   + setAttribute() - to set any attribute for an element;
-  + .className - to access the list of classes;
+  + .classList - to access the list of classes;
   + .toggle() - to add the class if it doesn't exists or remove it from the list if it does already exist;
   + .contains() - returns a boolean based on if the class exists in the list or not.
 
@@ -251,7 +258,7 @@ Some useful properties and methods:
 [Demo](https://shrai-dev.github.io/a-tiny-JS-world/) 
 
 -----
-### Object Oriented JavaScript
+### Object-Oriented JavaScript
 :star2: Course **Object Oriented JS** completed. This topic is new to me. I've learned about prototypes and delegation and the word *this*: 
 
   + Concepts of lexical scope, execution context (in-memory scope), closures, prototype chains.
