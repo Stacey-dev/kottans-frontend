@@ -22,7 +22,7 @@
 - [x] [Object-oriented JS](#object-oriented-javascript) - practice
 - [x] [OOP exercise](#oop-exercise) - practice
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
-- [x] [Memory pair game](#memory-pair-game) - real project!
+- [ ] [Memory pair game](#memory-pair-game) - real project!
 - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 - [x] [Friends App](#friends-app) - real project!
 
