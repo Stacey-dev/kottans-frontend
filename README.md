@@ -328,7 +328,7 @@ My profile :arrow*right: [Anastasia](https://www.codewars.com/users/_Stacey*)
 
 ---
 
-### Friends App :confetti_ball:
+### Friends App
 
 :tada: I have created a tiny social friends' search page with users cards, search, sorting and filtering of them by age, name and gender. It was a really difficult task for me: a lot of functions to implement but I learned how to use my knowledge and how create the whole task piece by piece.
 
