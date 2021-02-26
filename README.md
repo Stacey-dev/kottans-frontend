@@ -308,7 +308,7 @@ Some useful properties and methods:
 
 I'd reached 6 kyu before this course.
 
-My profile :arrow*right: [Anastasia](https://www.codewars.com/users/_Stacey*)
+My profile :arrow_right: [Anastasia](https://www.codewars.com/users/_Stacey_)
 
 ---
 
@@ -347,5 +347,3 @@ It was an interesting experience to test all knowledge I gained and in the resul
 :arrow_down: Below you can find published web page and the code.
 
 [Demo](https://shrai-dev.github.io/friends-app/) | [Code](https://github.com/Shrai-dev/friends-app)
-
-:arrow_down: to be continued..
