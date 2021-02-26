@@ -22,7 +22,7 @@
 - [x] [Object-oriented JS](#object-oriented-javascript) - practice
 - [x] [OOP exercise](#oop-exercise) - practice
 - [ ] [Offline Web Applications](https://github.com/kottans/frontend/blob/master/tasks/app-design-offline.md)
-- [ ] [Memory pair game](#memory-pair-game) - real project!
+- [x] [Memory pair game](#memory-pair-game) - real project!
 - [ ] [Website Performance Optimization](https://github.com/kottans/frontend/blob/master/tasks/app-design-performance.md)
 - [x] [Friends App](#friends-app) - real project!
 
@@ -325,6 +325,18 @@ My profile :arrow*right: [Anastasia](https://www.codewars.com/users/_Stacey*)
 :fire: The most controversial thing is that _Javascript does not have classes_. There have been many attempts to mimic classes in javascript, and there is even a Class in ES6, however, all these “replacements” are just syntactic sugar over the actual functionality that goes on under the hood.
 
 [Demo](https://shrai-dev.github.io/a-tiny-JS-world/)
+
+---
+
+### Memory Pair Game
+
+:tada: I have done a card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The goal of the game is to turn over pairs of matching cards. The game ends when the last pair has been picked up.
+
+It was an interesting experience to test all knowledge I gained and in the result got this simple game.
+
+:arrow_down: Below you can find published game and the code.
+
+[Demo](https://shrai-dev.github.io/memory-pair-game/) | [Code](https://github.com/Shrai-dev/memory-pair-game)
 
 ---
 
